@@ -1,4 +1,4 @@
 kamera
 lensa
 batrai
-memori
+tripod
