@@ -1,2 +1,2 @@
 # Anjasmara
-bisnis fotografi
+Bisnis Jasa Fotografi
