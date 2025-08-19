@@ -2,3 +2,4 @@ kamera
 lensa
 batrai
 tripod
+lighting
