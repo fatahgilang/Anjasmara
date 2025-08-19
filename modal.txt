@@ -1,0 +1,4 @@
+kamera
+lensa
+batrai
+memori
